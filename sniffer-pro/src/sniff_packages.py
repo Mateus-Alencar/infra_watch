@@ -1,3 +1,8 @@
+# Scapy permite que você crie, envie, capture e manipule pacotes de rede facilmente. 
+# Com Scapy, você pode realizar tarefas como escanear portas, rastrear rotas, 
+# interceptar pacotes, entre outras. 
+
+
 from scapy.all import sniff, IP, IPv6, DNS
 from datetime import datetime
 import os
