@@ -12,7 +12,7 @@ Projeto em Python para capturar e registrar pacotes de rede usando a biblioteca 
 
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python src/sniff_packages.py
 ```
 
 ## infra_watch
